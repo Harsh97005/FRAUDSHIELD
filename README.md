@@ -1,4 +1,4 @@
-# SafeText AI 🛡️
+# FRAUDSHIELD AI 🛡️
 
 A production-ready full-stack **Fraud / Scam Message Detection System** powered by AI-based NLP analysis.
 
